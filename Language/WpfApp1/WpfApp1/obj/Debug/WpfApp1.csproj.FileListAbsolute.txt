@@ -1,0 +1,55 @@
+C:\Users\Keima\source\repos\WpfApp1\WpfApp1\obj\Debug\DataList.g.cs
+C:\Users\Keima\source\repos\WpfApp1\WpfApp1\obj\Debug\EditClient.g.cs
+C:\Users\Keima\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Keima\source\repos\WpfApp1\WpfApp1\obj\Debug\AddClient.g.cs
+C:\Users\Keima\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Keima\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\Keima\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Keima\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Keima\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Keima\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Keima\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Keima\source\repos\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\Keima\source\repos\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Keima\source\repos\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\Keima\source\repos\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Keima\source\repos\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Keima\source\repos\WpfApp1\WpfApp1\obj\Debug\DataList.baml
+C:\Users\Keima\source\repos\WpfApp1\WpfApp1\obj\Debug\EditClient.baml
+C:\Users\Keima\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Keima\source\repos\WpfApp1\WpfApp1\obj\Debug\AddClient.baml
+C:\Users\Keima\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Keima\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Keima\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Keima\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Keima\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Keima\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Keima\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Keima\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+F:\Новая папка (2)\Language\Language\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+F:\Новая папка (2)\Language\Language\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+F:\Новая папка (2)\Language\Language\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+F:\Новая папка (2)\Language\Language\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+F:\Новая папка (2)\Language\Language\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+F:\Новая папка (2)\Language\Language\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+F:\Новая папка (2)\Language\Language\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+F:\Новая папка (2)\Language\Language\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+F:\Новая папка (2)\Language\Language\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+F:\Новая папка (2)\Language\Language\WpfApp1\WpfApp1\obj\Debug\AddClient.g.cs
+F:\Новая папка (2)\Language\Language\WpfApp1\WpfApp1\obj\Debug\DataList.g.cs
+F:\Новая папка (2)\Language\Language\WpfApp1\WpfApp1\obj\Debug\EditClient.g.cs
+F:\Новая папка (2)\Language\Language\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+F:\Новая папка (2)\Language\Language\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+F:\Новая папка (2)\Language\Language\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+F:\Новая папка (2)\Language\Language\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+F:\Новая папка (2)\Language\Language\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+F:\Новая папка (2)\Language\Language\WpfApp1\WpfApp1\obj\Debug\AddClient.baml
+F:\Новая папка (2)\Language\Language\WpfApp1\WpfApp1\obj\Debug\DataList.baml
+F:\Новая папка (2)\Language\Language\WpfApp1\WpfApp1\obj\Debug\EditClient.baml
+F:\Новая папка (2)\Language\Language\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+F:\Новая папка (2)\Language\Language\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+F:\Новая папка (2)\Language\Language\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+F:\Новая папка (2)\Language\Language\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+F:\Новая папка (2)\Language\Language\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+F:\Новая папка (2)\Language\Language\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+F:\Новая папка (2)\Language\Language\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
